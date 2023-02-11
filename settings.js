@@ -9,24 +9,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 //==============================\
 ///Gantien dewe sak karepmu..,
-global.pulsa = "628xxx"
-global.gopay = "628xxx"
-global.dana = "628xxx"
+global.pulsa = "6281328860289"
+global.gopay = "6283865758749"
+global.dana = "6281328860289"
 global.packname = 'Lenttobs'
-global.footer = '©Maslent'
-global.ovo = "628xxx"
-global.ownerlen = "Maslent/Lenttobs"//Ubah
-global.owner = ['628xxxxxxx3'] //ubh nomor owner hp
-global.ownername = "Lenttobs" //ubah
-global.ytname = "YT: lenttobs"//ubah
-global.socialm = "IG: vlntncptr"//ubah
-global.location = "Indonesia, Jawatimur, Lumajang"//ubah
-global.ownernomer = "628xx5xxx0413"//ubah nomorhp owner
-global.premium = ['6285xxxxx413']//ubah nomor hp premium
-global.botname = 'BotWhangsafV9' //ubah
-global.linkz = "https://chat.LINK BOKEP/LINKGC WA"//ubah
-global.websitex = "yt mu"//ubah
-global.botscript = '-'
+global.footer = '©Sopengg'
+global.ovo = "6281328860289"
+global.ownerlen = "Sofa Najamaula/Sopengg"//Ubah
+global.owner = ['6281328860289'] //ubh nomor owner hp
+global.ownername = "Sopengg" //ubah
+global.ytname = "YT: Naja Sofa"//ubah
+global.socialm = "IG: sfanjmla"//ubah
+global.location = "Jl. Jati Gondoharum, Gandulekor, Gondoharum, Kec. Pagerruyung, Kabupaten Kendal, Jawa Tengah 51361, Indonesia"//ubah
+global.ownernomer = "6281328860289"//ubah nomorhp owner
+global.premium = ['6281328860289']//ubah nomor hp premium
+global.botname = 'SopengMdV1' //ubah
+global.linkz = "https://chat.whatsapp.com/F3d1fzg0HqLKrlCADsc4UP"//ubah
+global.websitex = "https://youtube.com/@najasofa4447"//ubah
+global.botscript = 'https://github.com/Sofamaula8/BOT-TERBARU.git'
 global.themeemoji = "😿"//ubah
 global.packname = "Sticker By"//ubah
 global.author = "Made by"//ubah
@@ -37,16 +37,16 @@ global.sp = ''
 global.mess = {
     success: 'Piye?!', //isien dewe Gantien bahasane Muales pol aku sak karepmu 
     admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
-    premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature could be used by bot only',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    botAdmin: 'Bot Nya Harus Admin Dulu!',
+    premime: 'Untuk Mendapatkan Fitur Premium Anda Harus Registrasi Dulu!',
+    owner: 'Fitur Ini Hanya Bisa Di Gunakan Oleh Owner Bot Saja Ya :)',
+    group: 'Fitur Ini Hanya Bisa Digunakan Di Grup!',
+    private: 'Fitur Ini Hanya bisa Dilakukan Di Private Chat Ya!',
+    bot: 'Fitur Ini Haya Bisa Digunakan Oleh Bot Saja Ya!',
+    wait: 'Sedang process...',
+    linkm: 'Mana link Nya?',
+    endLimit: 'Yah Limitmu Sudah Habis, Limit Akan di Reset Setiap 12 Jam, Atau Beli Premium/Limit Di Owner',
+    nsfw: 'Fitur Bokep Belum Diaktifkan, Silahkan Hubungi Admin Dulu',
 }
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
